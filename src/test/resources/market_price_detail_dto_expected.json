@@ -1,0 +1,25 @@
+{
+  "uuid": "",
+  "day": [
+    2024,
+    4,
+    20
+  ],
+  "slot": "SLOT_0_3",
+  "price": 1.3,
+  "quantity": 1025.18,
+  "type": "PRIMARY",
+  "productions": [
+    {
+      "uuid": "",
+      "quantity": 25,
+      "producer": "Dyson sphere projet"
+    },
+    {
+      "uuid": "",
+      "quantity": 1000.18,
+      "producer": "Antimatter Corp"
+    }
+
+  ]
+}

@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: agregio-test
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/agregio
+    username: postgres
+    password: postgres
+
+
+  jpa:
+    hibernate:
+      ddl-auto: create
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+  jackson:
+    default-property-inclusion: non_null

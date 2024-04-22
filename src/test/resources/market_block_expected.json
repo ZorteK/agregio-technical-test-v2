@@ -1,0 +1,38 @@
+[
+  {
+    "uuid": "",
+    "day": [
+      2024,
+      4,
+      20
+    ],
+    "slot": "SLOT_0_3",
+    "price": 1.2,
+    "quantity": 1025.18,
+    "type": "PRIMARY"
+  },
+  {
+    "uuid": "",
+    "day": [
+      2024,
+      4,
+      20
+    ],
+    "slot": "SLOT_0_3",
+    "price": 1.2,
+    "quantity": 0,
+    "type": "SECONDARY"
+  },
+  {
+    "uuid": "",
+    "day": [
+      2024,
+      4,
+      20
+    ],
+    "slot": "SLOT_0_3",
+    "price": 1.2,
+    "quantity": 0,
+    "type": "FAST_REACTING"
+  }
+]
